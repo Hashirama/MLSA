@@ -10,3 +10,5 @@ It reads the Dead by Daylight log file to find what it needs. It doesn't interfe
 
 
 <img src="https://raw.githubusercontent.com/Hashirama/MLSA/master/mlsa.png" width="400">
+
+

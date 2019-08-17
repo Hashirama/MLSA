@@ -8,4 +8,4 @@ Allows the user to view the steam profile of the killer they're paired with on D
 
 It reads the Dead by Daylight log file to find what it needs. It doesn't interfere with the DeadByDaylight executable in any way.
 
-https://raw.githubusercontent.com/Hashirama/MLSA/master/mlsa.png
+(https://raw.githubusercontent.com/Hashirama/MLSA/master/mlsa.png)

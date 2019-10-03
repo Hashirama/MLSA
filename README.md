@@ -1,5 +1,7 @@
 # MLSA
 
+# Won't work with dedicated servers and only works with P2P. Behaviour will soon put dedicated servers into use, so if it doesn't work you know why.
+
 Tool for Dead by Daylight
 
 Make Lobbies Sexy Again
